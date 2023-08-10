@@ -1,16 +1,17 @@
 # bookly
 
-A new Flutter project.
+Bookly app
+About the App:
+I've created 'Bookly,' a fascinating Flutter project that showcases both free and paid books from the Google API. The app allows users to explore book ratings, details, and other relevant information. With an intuitive search functionality, users can easily find the books they desire 📖, enriched with captivating animations and error handling capabilities ❌.
 
-## Getting Started
+Features:
+🟢 Fetching books data from Google API
+🟢 Search Functionality: The app offers a convenient search bar to look for books by their titles.
+🟢 Book Details: Users can access comprehensive information about each book, including plot summaries, author biographies, ratings, reviews, and awards. This data is retrieved through a book API.
+🟢 Reading List: I've integrated a feature that enables users to build a personalized reading list of books they wish to read in the future. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies and Principles Used:
+🟢 MVVM architecture pattern
+🟢 BloC(Cubit) State Management
+🟢 Reusable components
+🟢 Clean Code principles
